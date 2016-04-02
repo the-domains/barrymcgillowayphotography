@@ -1,0 +1,28 @@
+name: Barrymcgillowayphotography
+favicon: null
+layout_spectrum: 0.9509770979639143
+typography_spectrum: 0.3096249445807189
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6397210503928363
+  lightness: 0.046979858772829175
+  saturation: 0.9829452985431999
+  rhythmicContrast: 0.4332619227934629
+purpose: []
